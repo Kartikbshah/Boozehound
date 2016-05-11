@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (3.3.1)
+  - IQKeyboardManagerSwift (4.0.1)
+  - Kingfisher (2.2.2)
+  - PKHUD (3.1.0)
+  - ReachabilitySwift (2.3.3)
+  - SideMenu (1.1.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - PKHUD
+  - ReachabilitySwift (from `https://github.com/ashleymills/Reachability.swift`)
+  - SideMenu
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  ReachabilitySwift:
+    :git: https://github.com/ashleymills/Reachability.swift
+
+CHECKOUT OPTIONS:
+  ReachabilitySwift:
+    :commit: fa90df50c04f5743fbdf643cbe8d10562d75673d
+    :git: https://github.com/ashleymills/Reachability.swift
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  IQKeyboardManagerSwift: e92246955e21dad73ad9dc89b80adb134d8bb395
+  Kingfisher: 7e8de5b0cf7b5dc8ec559d193029a0859df93ef1
+  PKHUD: 4167eccdb1b3a892fd80ce2b51cb6ba412a889ab
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  SideMenu: c7eb4edeb570469a70c6503306f5a97df08e8e9d
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
